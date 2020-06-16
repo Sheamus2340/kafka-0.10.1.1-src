@@ -149,3 +149,7 @@ Apache Kafka is interested in building the community; we would welcome any thoug
 
 To contribute follow the instructions here:
  * http://kafka.apache.org/contributing.html
+ 
+# 编译运行源码流程
+[源码编译过程](https://honeypps.com/mq/kafka-source-code-environment-build/)
+1. 注意需要将项目修改成scala的support才能运行；
